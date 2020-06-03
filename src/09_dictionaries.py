@@ -34,7 +34,7 @@ waypoints = [
 ]
 
 # Add a new waypoint to the list
-waypoints.append({"lat":570,"lon":-250,"name":"somewhere in china"})
+waypoints.append({"lat":570,"lon":250,"name":"somewhere in china"})
 
 # Modify the dictionary with name "a place" such that its longitude
 # value is -130 and change its name to "not a real place"
